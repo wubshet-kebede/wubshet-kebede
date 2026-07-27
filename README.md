@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Wubshet Kebede
+# 👋 Hi there, I'm Wubshet Ayellew Kebede
 
 ### Full Stack Developer | Computer Engineering Graduate | Backend Enthusiast
 
