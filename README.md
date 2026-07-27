@@ -11,6 +11,12 @@ I enjoy solving real-world problems by combining modern web technologies with in
 Currently building projects with Go, TypeScript, Nuxt, React, PostgreSQL, ROS2, and exploring cloud-native architectures.
 ---
 
+## 🎓 Education
+
+🎓 **Bachelor of Science in Computer Engineering**  
+🏛️ **University of Gondar**  
+🏅 **Very Great Distinction** (CGPA: **3.81 / 4.00**)
+
 ## 🌐 Connect with Me
 
 <p align="left">
