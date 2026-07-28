@@ -22,7 +22,7 @@ Currently building projects with Go, TypeScript, Nuxt, React, PostgreSQL, ROS2, 
 <p align="left">
 <a href="https://www.linkedin.com/in/wubshet-kebede"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:wubshet2829@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+<a href="https://portfolio-website-seven-theta-37.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
 </p>
 
 ---
