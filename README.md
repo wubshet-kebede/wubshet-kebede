@@ -20,7 +20,7 @@ Currently building projects with Go, TypeScript, Nuxt, React, PostgreSQL, ROS2, 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="www.linkedin.com/in/wubshet-kebede"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/wubshet-kebede"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:wubshet2829@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
 <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
 </p>
@@ -50,6 +50,7 @@ Currently building projects with Go, TypeScript, Nuxt, React, PostgreSQL, ROS2, 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs
 
 ### Backend
 
