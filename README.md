@@ -129,7 +129,7 @@ Currently building projects with Go, TypeScript, Nuxt, React, PostgreSQL, ROS2, 
 - 🤖 RoboCare Platform
 - 💰 Microloan Management System
 - 🎓 Student Management System
-- 🌐 Portfolio Website *(Coming Soon)*
+- 🌐 Portfolio Website 
 
 ---
 ## 🏆 Highlights
