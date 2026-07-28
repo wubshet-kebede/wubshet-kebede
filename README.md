@@ -50,7 +50,7 @@ Currently building projects with Go, TypeScript, Nuxt, React, PostgreSQL, ROS2, 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs)
 
 ### Backend
 
