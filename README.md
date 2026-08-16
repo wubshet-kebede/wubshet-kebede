@@ -8,7 +8,6 @@ Computer Engineering graduate passionate about building scalable backend systems
 
 I enjoy solving real-world problems by combining modern web technologies with intelligent systems. My interests span backend architecture, distributed systems, robotics, machine learning, and healthcare technology.
 
-Currently building projects with Go, TypeScript, Nuxt, React, PostgreSQL, ROS2, and exploring cloud-native architectures.
 ---
 
 ## 🎓 Education
@@ -37,6 +36,7 @@ Currently building projects with Go, TypeScript, Nuxt, React, PostgreSQL, ROS2, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![C#](https://shields.io)
 
 ### Frontend
 
